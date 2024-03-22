@@ -4,7 +4,7 @@ This script can be run on a clean OS to provide a fully functional running docke
 ___
 
 To be able to run the script:
-- Clone this repository: https://github.com/caglakahriman/pyeditorial_development_environment_script.git
+- Clone the repository: git clone https://github.com/caglakahriman/pyeditorial_development_environment_script.git
 
 - cd into the folder that has been cloned.
 
